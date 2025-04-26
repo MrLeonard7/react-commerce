@@ -10,7 +10,6 @@ Frontend completo para una aplicación E-commerce ("ReactCommerce") construido c
 
 *   [Características Principales](#características-principales)
 *   [Tecnologías Utilizadas](#tecnologías-utilizadas)
-*   [Demo en Vivo](#demo-en-vivo) (Opcional)
 *   [Instalación y Uso Local](#instalación-y-uso-local)
 *   [Estructura del Proyecto](#estructura-del-proyecto)
 *   [Estado del Proyecto](#estado-del-proyecto)
@@ -110,8 +109,12 @@ El proyecto se encuentra actualmente en desarrollo, siguiendo un plan de iteraci
 
 Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
+<<<<<<< HEAD
 ## Plan de Iteraciones 
 ### ReactCommerce (24 Abril - 24 Mayo)
+=======
+## Plan de Iteraciones - ReactCommerce (24 Abril - 24 Mayo)
+>>>>>>> 2db8cdf36fff6ac578ad1eb6627cbb5bb37ca7b1
 
 **Metodología:** Agile con flujo Kanban. 1 Historia de Usuario / Objetivo Principal por iteración semanal.
 
