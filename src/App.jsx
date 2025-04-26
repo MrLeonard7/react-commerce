@@ -1,13 +1,11 @@
 // src/App.jsx
 import React from 'react';
+import { AppRouter } from './router/AppRouter';
 
 function App() {
   return (
-    <div>
-      <h1>ReactCommerce (Próximamente)</h1>
-      {/* Aquí irá nuestro Router más adelante */}
-    </div>
-  );
+    <AppRouter/>
+  )
 }
 
 export default App;
