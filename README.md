@@ -15,6 +15,7 @@ Frontend completo para una aplicación E-commerce ("ReactCommerce") construido c
 *   [Estado del Proyecto](#estado-del-proyecto)
 *   [Próximos Pasos / Mejoras Futuras](#próximos-pasos--mejoras-futuras)
 *   [Contacto](#contacto)
+*   [Plan de Iteraciones](#plan-de-iteraciones)
 
 ## Características Principales
 
@@ -108,7 +109,7 @@ El proyecto se encuentra actualmente en desarrollo, siguiendo un plan de iteraci
 
 Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
-# Plan de Iteraciones - ReactCommerce (24 Abril - 24 Mayo)
+## Plan de Iteraciones - ReactCommerce (24 Abril - 24 Mayo)
 
 **Metodología:** Agile con flujo Kanban. 1 Historia de Usuario / Objetivo Principal por iteración semanal.
 
@@ -116,7 +117,7 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 ---
 
-## Iteración 1: Setup & Esqueleto Básico (Mié 24 Abr - Vie 26 Abr)
+### Iteración 1: Setup & Esqueleto Básico (Mié 24 Abr - Vie 26 Abr)
 
 *   **Objetivo Principal / HU:** Configuración Inicial, Estructura, Routing y Navegación Básica (Base de HU-01).
 *   **Foco Técnico / Tareas:**
@@ -128,7 +129,7 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 ---
 
-## Iteración 2: Visualización de Productos (Lun 29 Abr - Vie 3 May)
+### Iteración 2: Visualización de Productos (Lun 29 Abr - Vie 3 May)
 
 *   **Objetivo Principal / HU:** **(HU-02)** Visualización de Productos.
 *   **Foco Técnico / Tareas:**
@@ -141,7 +142,7 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 ---
 
-## Iteración 3: Página de Detalles del Producto (Lun 6 May - Vie 10 May)
+### Iteración 3: Página de Detalles del Producto (Lun 6 May - Vie 10 May)
 
 *   **Objetivo Principal / HU:** **(HU-03)** Detalles del Producto.
 *   **Foco Técnico / Tareas:**
@@ -156,7 +157,7 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 ---
 
-## Iteración 4: Introducción al Carrito & Añadir Ítem (Lun 13 May - Vie 17 May)
+### Iteración 4: Introducción al Carrito & Añadir Ítem (Lun 13 May - Vie 17 May)
 
 *   **Objetivo Principal / HU:** **(HU-04)** Añadir al Carrito & Configuración del Estado Global.
 *   **Foco Técnico / Tareas:**
@@ -169,7 +170,7 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 ---
 
-## Iteración 5: Visualización y Gestión Básica del Carrito (Lun 20 May - Vie 24 May)
+### Iteración 5: Visualización y Gestión Básica del Carrito (Lun 20 May - Vie 24 May)
 
 *   **Objetivo Principal / HU:** **(HU-05)** Visualización y Gestión Básica del Carrito.
 *   **Foco Técnico / Tareas:**
