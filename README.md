@@ -10,7 +10,6 @@ Frontend completo para una aplicación E-commerce ("ReactCommerce") construido c
 
 *   [Características Principales](#características-principales)
 *   [Tecnologías Utilizadas](#tecnologías-utilizadas)
-*   [Demo en Vivo](#demo-en-vivo) (Opcional)
 *   [Instalación y Uso Local](#instalación-y-uso-local)
 *   [Estructura del Proyecto](#estructura-del-proyecto)
 *   [Estado del Proyecto](#estado-del-proyecto)
