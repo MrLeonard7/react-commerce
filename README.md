@@ -109,12 +109,8 @@ El proyecto se encuentra actualmente en desarrollo, siguiendo un plan de iteraci
 
 Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
-<<<<<<< HEAD
 ## Plan de Iteraciones 
 ### ReactCommerce (24 Abril - 24 Mayo)
-=======
-## Plan de Iteraciones - ReactCommerce (24 Abril - 24 Mayo)
->>>>>>> 2db8cdf36fff6ac578ad1eb6627cbb5bb37ca7b1
 
 **Metodología:** Agile con flujo Kanban. 1 Historia de Usuario / Objetivo Principal por iteración semanal.
 
