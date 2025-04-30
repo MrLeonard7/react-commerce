@@ -134,9 +134,9 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 *   **Objetivo Principal / HU:** **(HU-02)** Visualización de Productos.
 *   **Foco Técnico / Tareas:**
-    *   [ ] **(Tarea 6)** Configurar Fuente de Datos (FakeStoreAPI/Mock).
-    *   [ ] **(Tarea 7)** Crear Servicio de Productos (`getAllProducts()` en `src/services/`).
-    *   [ ] **(Tarea 8)** Obtener y Mostrar Datos Crudos en `ProductsPage` (`useState`/`useEffect`).
+    *   [X] **(Tarea 6)** Configurar Fuente de Datos (FakeStoreAPI/Mock).
+    *   [X] **(Tarea 7)** Crear Servicio de Productos (`getAllProducts()` en `src/services/`).
+    *   [X] **(Tarea 8)** Obtener y Mostrar Datos Crudos en `ProductsPage` (`useState`/`useEffect`).
     *   [ ] **(Tarea 9)** Crear Componente `ProductCard` (Diseño reutilizable con Bootstrap).
     *   [ ] **(Tarea 10)** Renderizar `ProductCard`s en `ProductsPage` (Mapeo y grid).
     *   [ ] **(Tarea 11)** Añadir Manejo Básico de Carga/Error en `ProductsPage`.

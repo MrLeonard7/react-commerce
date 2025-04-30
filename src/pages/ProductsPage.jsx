@@ -1,7 +1,6 @@
 // src/pages/ProductsPage.jsx
 import React, { useState, useEffect } from 'react'
 import { getAllProducts } from '../services/productService'
-import { height } from '@fortawesome/free-brands-svg-icons/fa42Group'
 
 
 export const ProductsPage = () => {
