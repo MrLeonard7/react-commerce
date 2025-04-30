@@ -6,14 +6,14 @@ import { faCartShopping } from '@fortawesome/free-solid-svg-icons'
 import { faReact } from '@fortawesome/free-brands-svg-icons'
 export const Navbar = () => {
     return (
-        <nav class="navbar text-bg-primary">
+        <nav class="navbar text-bg-light border-bottom">
             <div class="container-fluid">
-                <Link class="navbar-brand text-white text-uppercase fw-bolder" to="/">
-                <FontAwesomeIcon icon={faReact} size="2xl" /> ReactCommerce
+                <Link class="navbar-brand text-capitalize fw-bolder" to="/">
+                <FontAwesomeIcon icon={faReact} size="2xl" color="lightblue"/> ReactCommerce
                 </Link>
                 <form class="d-flex" role="search">
-                    <Link class="btn  btn btn-primary me-2" to="/products"><FontAwesomeIcon icon={faShop} color="white" size="lg" /></Link>
-                    <Link class="btn  btn btn-primary me-2" to="/cart"><FontAwesomeIcon icon={faCartShopping} color="white" size="lg" /></Link>
+                    <Link class="btn  btn btn-light me-2" to="/products"><FontAwesomeIcon icon={faShop} color="black" size="lg" /></Link>
+                    <Link class="btn  btn btn-light me-2" to="/cart"><FontAwesomeIcon icon={faCartShopping} color="black" size="lg" /></Link>
                 </form>
             </div>
         </nav>
