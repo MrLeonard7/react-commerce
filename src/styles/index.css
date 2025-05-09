@@ -1,0 +1,7 @@
+.card-title-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;  /* Número de líneas a mostrar antes de truncar */
+    -webkit-box-orient: vertical;
+    }
