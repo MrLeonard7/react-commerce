@@ -2,10 +2,7 @@ export const ProductCard = ({ product }) => {
     return (
 
     <section className="container-fluid ">
-        <div >
-        <h2 className="my-4">Página de Productos</h2>
-        <p>Productos encontrados: {product.length}</p>
-        <div className="row justify-content-center">
+        <div className="row justify-content-center mt-4">
             {product.map((product) => (
             <div key={product.id} 
             className="col-auto mb-4"
@@ -26,7 +23,6 @@ export const ProductCard = ({ product }) => {
                 </div>
             </div>
             ))}
-        </div>
         </div>
     </section>
 

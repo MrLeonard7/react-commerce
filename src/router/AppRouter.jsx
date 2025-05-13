@@ -14,6 +14,7 @@ export const AppRouter = () => {
                 <Route path="/products" element={<ProductsPage />} />
                 <Route path="/cart" element={<CartPage />} />
                 <Route path="*" element={<h2>404 Not Found</h2>} />
+                <Route path="/products/:productId"/>
             </Routes>
         </>
     )
