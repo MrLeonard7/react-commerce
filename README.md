@@ -137,9 +137,9 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
     *   [X] **(Tarea 6)** Configurar Fuente de Datos (FakeStoreAPI/Mock).
     *   [X] **(Tarea 7)** Crear Servicio de Productos (`getAllProducts()` en `src/services/`).
     *   [X] **(Tarea 8)** Obtener y Mostrar Datos Crudos en `ProductsPage` (`useState`/`useEffect`).
-    *   [ ] **(Tarea 9)** Crear Componente `ProductCard` (Diseño reutilizable con Bootstrap).
-    *   [ ] **(Tarea 10)** Renderizar `ProductCard`s en `ProductsPage` (Mapeo y grid).
-    *   [ ] **(Tarea 11)** Añadir Manejo Básico de Carga/Error en `ProductsPage`.
+    *   [X] **(Tarea 9)** Crear Componente `ProductCard` (Diseño reutilizable con Bootstrap).
+    *   [X] **(Tarea 10)** Renderizar `ProductCard`s en `ProductsPage` (Mapeo y grid).
+    *   [X] **(Tarea 11)** Añadir Manejo Básico de Carga/Error en `ProductsPage`.
 
 ---
 
@@ -147,7 +147,7 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 *   **Objetivo Principal / HU:** **(HU-03)** Detalles del Producto.
 *   **Foco Técnico / Tareas:**
-    *   [ ] Definir ruta dinámica (`/products/:id`).
+    *   [-] Definir ruta dinámica (`/products/:id`).
     *   [ ] Crear función `getProductById()` en el servicio.
     *   [ ] Crear `ProductDetailPage.jsx`.
     *   [ ] Obtener parámetro `id` de la URL (`useParams`).
