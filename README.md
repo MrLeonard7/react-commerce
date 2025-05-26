@@ -147,12 +147,12 @@ Link del Proyecto: [https://github.com/MrLeonard7/react-commerce]
 
 *   **Objetivo Principal / HU:** **(HU-03)** Detalles del Producto.
 *   **Foco Técnico / Tareas:**
-    *   [-] Definir ruta dinámica (`/products/:id`).
-    *   [ ] Crear función `getProductById()` en el servicio.
-    *   [ ] Crear `ProductDetailPage.jsx`.
-    *   [ ] Obtener parámetro `id` de la URL (`useParams`).
-    *   [ ] Llamar al servicio con `useEffect` para obtener datos del producto.
-    *   [ ] Mostrar detalles completos del producto (imagen, descripción, precio).
+    *   [X] Definir ruta dinámica (`/products/:id`).
+    *   [X] Crear función `getProductById()` en el servicio.
+    *   [X] Crear `ProductDetailPage.jsx`.
+    *   [X] Obtener parámetro `id` de la URL (`useParams`).
+    *   [X] Llamar al servicio con `useEffect` para obtener datos del producto.
+    *   [X] Mostrar detalles completos del producto (imagen, descripción, precio).
     *   [ ] Añadir botón "Añadir al Carrito" (sin funcionalidad aún).
     *   [ ] Manejo de carga/error para producto individual.
 
