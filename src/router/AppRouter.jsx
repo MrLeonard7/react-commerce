@@ -9,6 +9,7 @@ import { ProductDetailPage } from "../pages/ProductDetailPage"
 export const AppRouter = () => {
     return (
         <> 
+            <Navbar />
             <Routes >
                 <Route path="/" element={<HomePage />}  />
                 <Route path="/products" element={<ProductsPage />} />

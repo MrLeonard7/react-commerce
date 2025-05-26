@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom"
+
 export const ProductCard = ({ product }) => {
     return (
 
@@ -15,7 +17,7 @@ export const ProductCard = ({ product }) => {
                     style={{ height: '130px', width: '132px', margin: '23px', }}
                 />
                 <div className="card-body pt-0">
-                    <h5 className="card-title card-title-truncate">{product.title}</h5>
+                    <h5 className="card-title card-title-truncate"><Link to={`/products/${product.id}`} className="text-decoration-none text-dark">{product.title}</Link></h5>
                     <p className="card-text">
                     <strong>Precio: ${product.price}</strong>
                     </p>
